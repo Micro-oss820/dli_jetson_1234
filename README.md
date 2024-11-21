@@ -52,6 +52,7 @@ sudo docker run --runtime nvidia -it --rm --network host \
     nvcr.io/nvidia/dli/dli-nano-ai:v2.0.2-r32.7.1kr
 
 4. 실행된 주피터에서 classification을 들어가서 코드를 실행한다.
-5. 
+5. classification 실행한 모습
+https://github.com/Micro-oss820/dli_jetson_1234/issues/1#issuecomment-2490939459 
 
 
