@@ -53,6 +53,7 @@ sudo docker run --runtime nvidia -it --rm --network host \
 
 4. 실행된 주피터에서 classification을 들어가서 코드를 실행한다.
 5. classification 실행한 모습
-https://github.com/Micro-oss820/dli_jetson_1234/issues/1#issuecomment-2490939459 
+![KakaoTalk_20241121_205731559](https://github.com/user-attachments/assets/f4d4216c-53e6-442e-be15-051d61653f63)
+
 
 
