@@ -52,7 +52,8 @@ sudo docker run --runtime nvidia -it --rm --network host \
     nvcr.io/nvidia/dli/dli-nano-ai:v2.0.2-r32.7.1kr
 
 4. 실행된 주피터에서 classification을 들어가서 코드를 실행한다.
-5. classification 실행한 모습
+5. thumbs_up / thumbs_down 별로 30개 정도의 데이터를 만들고 epochs 10개 정도로 학습한다. 그리고 정확성을 확인한다.
+6. classification 실행한 모습
 ![KakaoTalk_20241121_205731559](https://github.com/user-attachments/assets/f4d4216c-53e6-442e-be15-051d61653f63)
 
 
