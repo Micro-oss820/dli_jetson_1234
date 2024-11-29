@@ -32,6 +32,7 @@
 ![image](https://github.com/user-attachments/assets/f4224c6f-0020-49ba-aa2b-cd0e6683083a)
 
 3-3. ![image](https://github.com/user-attachments/assets/ca6a581c-c263-4300-a0ac-024579674349) 설정에서 ![image](https://github.com/user-attachments/assets/041f44a7-9aee-41aa-a657-abfb3d5e7d39) Language Support 들어가기
+
 ![image](https://github.com/user-attachments/assets/76a17778-8cae-4bf0-b756-0b3b86b3d011)
 
 3-4. 하단 Keyboard input method system 설정을 fcitx로 바꾼다.
