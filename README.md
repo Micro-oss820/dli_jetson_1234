@@ -60,7 +60,6 @@
 
 1-2. Terminal 창에 입력
    - 코드
-   - 
 sudo docker run --runtime nvidia -it --rm --network host
 --memory=500M --memory-swap=4G
 --volume ~/nvdli-data:/nvdli-nano/data
