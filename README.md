@@ -12,7 +12,7 @@
 
 ## 2024-11-21
 
-1. 메모리 부족하여서 영상이 사진처럼 나온다면 swap 18GB 설치하기
+# 1. 메모리 부족하여서 영상이 사진처럼 나온다면 swap 18GB 설치하기
 - 코드
 
 sudo systemctl disable nvzramconfig
