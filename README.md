@@ -1,4 +1,5 @@
 ### JETSON-NANO
+
 ## JETSON-NANO 수업 전 준비
 
 1. SD Card Formatter download
@@ -6,12 +7,33 @@
    
 2. jetpack download
    - 링크 : https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#write
-   
-3. balena Etcher download
 
+3. balena Etcher download
+   - 링크 : https://www.balena.io/etcher/
+
+4. NVIDIA / Github 계정 생성하기
+
+## JETSON-NANO 환경 구축(2024-11-07)
+   
+* JETSON-NANO 구조
 ![jetson-nano-dev-kit-top-r6-HR-B01](https://github.com/user-attachments/assets/4ddf52bb-1ea8-4050-a5d2-1efd54d605ec)
 
-4. sd b
+1. balena Etcher를 이용해서 GUI 이미지 굽기
+
+2. 구운 이미지를 SD카드에 넣어 JETSON-NANO에 넣기
+
+3. JETSON-NANO를 연결하여 우분투 설치하기
+   - 참고 링크 : https://driz2le.tistory.com/253
+
+3-1. Terminal에서 $ sudo apt-get update 입력
+![image](https://github.com/user-attachments/assets/5c56489d-ade7-4758-b4a5-9b2a51193584)
+
+3-2. $ sudo apt-get install fcitx-hangul 입력
+![image](https://github.com/user-attachments/assets/f4224c6f-0020-49ba-aa2b-cd0e6683083a)
+
+
+
+
 
 ## Classification(2024-11-21) 
 
