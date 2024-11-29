@@ -1,4 +1,4 @@
-# dli_jetson_1234
+# JETSON-NANO
 
 1. SD Card Formatter
    
