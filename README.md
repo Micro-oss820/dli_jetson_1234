@@ -1,8 +1,11 @@
 ### JETSON-NANO
+## JETSON-NANO 수업 전 준비
 
-1. SD Card Formatter
+1. SD Card Formatter download
+   - 링크 : https://sd-memory-card-formatter.en.softonic.com/download
    
 2. jetpack download
+   - 링크 : https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#write
    
 3. balena Etcher download
 
@@ -51,8 +54,10 @@ sudo docker run --runtime nvidia -it --rm --network host \
 
 # 5. 실행된 주피터에서 classification을 들어가서 코드를 실행한다.
 ![image](https://github.com/user-attachments/assets/5adccb5c-fbfb-4782-a257-c8ee13d5df26)
+
 # 6. thumbs_up / thumbs_down 별로 30개 정도의 데이터를 만들고 epochs 10개 정도로 학습한다. 그리고 정확성을 확인한다.
-![image](https://github.com/user-attachments/assets/c693cb3c-bb20-4086-ab18-f6a623c5ad9a)
+![image](https://github.com/user-attachments/assets/97c11664-7160-4762-b35d-bdd11a3d89dd)
+
 # 7. classification 실행 예시
 ![KakaoTalk_20241121_205731559](https://github.com/user-attachments/assets/f4d4216c-53e6-442e-be15-051d61653f63)
 
