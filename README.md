@@ -98,7 +98,7 @@ reboot 입력
 ### 2. 카메라 인식 확인
 ![image](https://github.com/user-attachments/assets/515fbefc-41fb-44b3-a1a3-55c273ff4dcb)
 
-### 참고 : 심심풀이 인증샷
+### 번외 : 심심풀이 인증샷
 ![KakaoTalk_20241130_000734931_03](https://github.com/user-attachments/assets/ba0632a8-d310-445c-b688-89cba090de7d)
 
 ## (2024-11-21) Classification 
