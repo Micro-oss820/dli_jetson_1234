@@ -36,6 +36,7 @@
 ![image](https://github.com/user-attachments/assets/76a17778-8cae-4bf0-b756-0b3b86b3d011)
 
 3-4. 하단 Keyboard input method system 설정을 fcitx로 바꾼다.
+
 ![image](https://github.com/user-attachments/assets/26098391-4d62-4915-a387-22a7cc8d29f0)
 
 3-5. 재부팅하기
