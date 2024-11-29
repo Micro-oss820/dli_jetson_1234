@@ -1,4 +1,4 @@
-### JETSON-NANO
+### 주제 : JETSON-NANO
 
 ## JETSON-NANO 수업 전 준비
 
@@ -13,9 +13,9 @@
 
 # 4. NVIDIA / Github 계정 생성하기
 
-## JETSON-NANO 환경 구축(2024-11-07)
+## (2024-11-07) JETSON-NANO 환경 구축
    
-# * JETSON-NANO 구조
+# 참고 : JETSON-NANO 구조
 ![jetson-nano-dev-kit-top-r6-HR-B01](https://github.com/user-attachments/assets/4ddf52bb-1ea8-4050-a5d2-1efd54d605ec)
 
 # 1. balena Etcher를 이용해서 GUI 이미지 굽기
@@ -47,7 +47,7 @@
 ![image](https://github.com/user-attachments/assets/7d2c22bf-4789-4031-9012-1d3b1bc2bcae)
 
 
-## JETSON-NANO 카메라 연결 및 헤드리스 모드(2024-11-14)
+## (2024-11-14) JETSON-NANO 카메라 연결 및 헤드리스 모드
 # 1. 헤드리스 모드
 
 # 1-1. 교육과정에 필요한 dir 추가하기
@@ -99,7 +99,7 @@ reboot 입력
 # * 심심풀이 인증샷
 ![KakaoTalk_20241130_000734931_03](https://github.com/user-attachments/assets/ba0632a8-d310-445c-b688-89cba090de7d)
 
-## Classification(2024-11-21) 
+## (2024-11-21) Classification 
 
 # 1. 메모리 부족하여서 영상이 사진처럼 나온다면 swap 18GB 설치하기
   
