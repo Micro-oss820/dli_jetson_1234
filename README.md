@@ -150,7 +150,7 @@ sudo docker run --runtime nvidia -it --rm --network host \
 ### 6. thumbs_up / thumbs_down 별로 30개 정도의 데이터를 만들고 epochs 10개 정도로 학습한다. 그리고 정확성을 확인한다.
 ![image](https://github.com/user-attachments/assets/97c11664-7160-4762-b35d-bdd11a3d89dd)
 
-# 7. classification 실행 예시
+### 7. classification 실행 예시
 ![KakaoTalk_20241121_205731559](https://github.com/user-attachments/assets/f4d4216c-53e6-442e-be15-051d61653f63)
 
 
